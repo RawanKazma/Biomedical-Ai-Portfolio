@@ -54,7 +54,7 @@ Projects using cutting-edge AI techniques like few-shot learning, self-supervise
 Projects deploying ML/DL models on resource-constrained devices or edge platforms.
 
 - **Embedded AI for Portable Ultrasound**  
-  CNN models optimized and deployed on embedded devices for real-time inference.  
+  CNN models optimized and deployed on embedded devices for real-time inference (will be added by July 2026)  
   🔗 Repo: [embedded-ultrasound-ai]()
 
 - **Edge AI for Vital Sign Monitoring**  
@@ -63,7 +63,7 @@ Projects deploying ML/DL models on resource-constrained devices or edge platform
 
 ---
 
-## 📌 Notes
+## Notes
 - Projects include both **academic work** (Master’s degree projects at VUB and UGent) and **personal projects** developed to explore advanced AI techniques and demonstrate applied skills in biomedical AI.  
 - Each project repository includes **source code, README, slides, and results/visuals**.  
 - All projects are built using **Python**, **PyTorch**, **TensorFlow**, and related ML/DL libraries.  
