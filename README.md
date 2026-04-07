@@ -4,7 +4,7 @@ A diverse portfolio of **biomedical AI projects** using **machine learning (ML) 
 Projects span **medical imaging**, **clinical risk prediction**, **probabilistic modeling**, **representation and few-shot learning**, and **embedded/edge AI applications**.  
 
 This repository serves as an **index of my projects** including:  
-- **Academic projects** completed during my Master's studies at **VUB** and **UGent** in Biomedical Engineering with a minor in AI and Digital Health
+- **Academic projects** completed at VUB and UGent while pursuing a Master’s in Biomedical Engineering with a minor in AI and Digital Health. These projects leveraged real hospital and research-grade datasets to develop applied machine learning and deep learning solutions addressing clinically relevant biomedical challenges
 - **Personal projects** developed to explore advanced AI techniques and demonstrate applied skills in the biomedical domain  
 
 Together, these projects showcase both **domain expertise** and **technical AI proficiency**.
@@ -12,7 +12,7 @@ Together, these projects showcase both **domain expertise** and **technical AI p
 ## 📂 Categories
 
 ### 1. Medical Imaging
-Projects using computer vision and deep learning on medical images (MRI, CT, X-ray, etc.)
+projects applying computer vision and deep learning to a variety of medical imaging modalities including MRI, CT and X-ray
 
  - **Weakly-Supervised Radiomics for Breast Cancer Detection from 3D μ-Calcifications**  
   Classification of breast cancer using radiomic features extracted from 3D micro-calcifications. Includes both instance-level (micro) and patient-level prediction under label uncertainty.  
