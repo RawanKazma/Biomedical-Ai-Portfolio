@@ -32,8 +32,8 @@ projects applying computer vision and deep learning to a variety of medical imag
 ### 2. Clinical Risk Prediction & Probabilistic Modeling
 Projects focused on clinical data, risk estimation, and probabilistic approaches.
 
-- **Analyzing Model Robustness on Breast Cancer Wisconsin Dataset**  
-  Evaluation of multiple machine learning classifiers on the Breast Cancer Wisconsin dataset to assess robustness, generalization and performance under overlapping classes, complex decision boundaries, and label noise.The dataset contains biopsy-derived features labeled as Benign (B) or Malignant (M), providing a clinically relevant tabular dataset for classification tasks.  
+- **Analyzing Model Robustness on Breast Cancer Classification**  
+  Evaluation of ML classifiers on the Breast Cancer Wisconsin dataset to assess robustness, generalization, and performance under class overlap and label noise where features are biopsy-derived and labeled as Benign or Malignant  
   🔗 Repo: [breast-cancer-robustness-analysis](link-to-repo)
 
 - **Cardiovascular Risk Prediction**  
