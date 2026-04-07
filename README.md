@@ -34,7 +34,7 @@ Projects focused on clinical data, risk estimation, and probabilistic approaches
 
 - **Analyzing Model Robustness on Breast Cancer Classification**  
   Evaluation of ML classifiers on the Breast Cancer Wisconsin dataset to assess robustness, generalization, and performance under class overlap and label noise where features are biopsy-derived and labeled as Benign or Malignant  
-  🔗 Repo: [breast-cancer-robustness-analysis](link-to-repo)
+  🔗 Repo: [breast-cancer-robustness-analysis](https://github.com/RawanKazma/breast-cancer-classifier-robustness)
 
 - **Cardiovascular Risk Prediction**  
   ML models including logistic regression, XGBoost, and probabilistic calibration.  
