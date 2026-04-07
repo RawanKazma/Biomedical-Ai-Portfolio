@@ -47,9 +47,9 @@ Projects using cutting-edge AI techniques like few-shot learning, self-supervise
 - **Few-Shot Learning with Siamese Networks** *(non-medical)*
   Siamese network implementation for few-shot classification tasks on general datasets.  
   🔗 Repo: [Few-Shot Learning with Siamese Networks](https://github.com/RawanKazma/ai-portfolio/tree/main/Few-Shot%20Learning%20with%20Siamese%20Networks)
-  
+
 - **Few-Shot Medical Image Classification**  
-  Prototypical networks to classify medical images with limited labeled data.  
+  Prototypical networks to classify medical images with limited labeled data  
   🔗 Repo: [few-shot-medical-images]()
 
 - **Self-Supervised ECG Signal Learning**  
@@ -72,7 +72,7 @@ Projects deploying ML/DL models on resource-constrained devices or edge platform
 ---
 
 ## Notes
-- Projects include both **academic work** (Master’s degree projects at VUB and UGent) and **personal projects** developed to explore advanced AI techniques and demonstrate applied skills in biomedical AI.  
+- Projects include both academic work (Master’s degree projects at VUB and UGent) and personal projects developed to explore advanced AI techniques and demonstrate applied skills in biomedical AI 
 - Each project repository includes **source code, README, slides, and results/visuals**.  
 - All projects are built using **Python**, **PyTorch**, **TensorFlow**, and related ML/DL libraries.  
 - This portfolio demonstrates a combination of **domain expertise, technical skills and applied AI knowledge**.
