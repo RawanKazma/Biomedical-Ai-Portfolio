@@ -16,7 +16,7 @@ Projects using computer vision and deep learning on medical images (MRI, CT, X-r
 
  **Weakly-Supervised Radiomics for Breast Cancer Detection from 3D μ-Calcifications**  
   Classification of breast cancer using radiomic features extracted from 3D micro-calcifications. Includes both instance-level (micro) and patient-level prediction under label uncertainty.  
-  🔗 Repo: [breast-cancer-microcalcification]()
+  🔗 Repo: [breast-cancer-microcalcification](https://github.com/RawanKazma/breast-cancer-weakly-supervised-radiomics.git)
 
 - **Brain Tumor Segmentation (U-Net)**  
   MRI-based tumor segmentation using CNNs and deep learning techniques.  
