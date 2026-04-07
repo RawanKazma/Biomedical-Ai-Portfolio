@@ -1,13 +1,14 @@
 # Biomedical Ai Portfolio
 
 A diverse portfolio of **biomedical AI projects** using **machine learning (ML) and deep learning (DL)**.  
-Projects span **medical imaging**, **clinical risk prediction**, **probabilistic modeling**, **representation and few-shot learning**, and **embedded/edge AI applications**.  
+Projects span **medical imaging**, **clinical risk prediction**, **probabilistic modeling**, **representation and few-shot learning**, and **embedded/edge AI applications**. 
 
 This repository serves as an **index of my projects** including:  
 - **Academic projects** completed at VUB and UGent while pursuing a Master’s in Biomedical Engineering with a minor in AI and Digital Health. These projects leveraged real hospital and research-grade datasets to develop applied machine learning and deep learning solutions addressing clinically relevant biomedical challenges
 - **Personal projects** developed to explore advanced AI techniques and demonstrate applied skills in the biomedical domain  
 
 Together, these projects showcase both **domain expertise** and **technical AI proficiency**.
+> **Note:** Some project repository links are not yet available. These will be added soon as the projects are uploaded.
 
 ## 📂 Categories
 
@@ -33,11 +34,11 @@ Projects focused on clinical data, risk estimation, and probabilistic approaches
 
 - **Cardiovascular Risk Prediction**  
   ML models including logistic regression, XGBoost, and probabilistic calibration.  
-  🔗 Repo: [cardio-risk-prediction]()
+  🔗 Repo: [cardio-risk-prediction]
 
 - **Sepsis Early Warning System (LSTM)**  
   Time-series clinical prediction using deep learning and probabilistic modeling.  
-  🔗 Repo: [sepsis-warning-system]()
+  🔗 Repo: [sepsis-warning-system]
 
 ---
 
@@ -50,11 +51,11 @@ Projects using cutting-edge AI techniques like few-shot learning, self-supervise
 
 - **Few-Shot Medical Image Classification**  
   Prototypical networks to classify medical images with limited labeled data  
-  🔗 Repo: [few-shot-medical-images]()
+  🔗 Repo: [few-shot-medical-images]
 
 - **Self-Supervised ECG Signal Learning**  
   Contrastive learning to generate robust embeddings from ECG data.  
-  🔗 Repo: [ssl-ecg-signals]()
+  🔗 Repo: [ssl-ecg-signals]
 
 ---
 
@@ -63,11 +64,11 @@ Projects deploying ML/DL models on resource-constrained devices or edge platform
 
 - **Embedded AI for Portable Ultrasound**  
   CNN models optimized and deployed on embedded devices for real-time inference (will be added by July 2026)  
-  🔗 Repo: [embedded-ultrasound-ai]()
+  🔗 Repo: [embedded-ultrasound-ai]
 
 - **Edge AI for Vital Sign Monitoring**  
   Lightweight models for continuous monitoring and prediction on low-power hardware.  
-  🔗 Repo: [edge-ai-vitals]()
+  🔗 Repo: [edge-ai-vitals]
 
 ---
 
