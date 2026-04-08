@@ -49,6 +49,7 @@ Projects focused on clinical data, risk estimation, and probabilistic approaches
 Projects using cutting-edge AI techniques like few-shot learning, self-supervised learning and representation learning.
 
 - **Few-Shot Learning with Siamese Networks**
+  
   Siamese network implementation for few-shot classification tasks on general datasets.  
   🔗 Repo: [Few-Shot Learning with Siamese Networks](https://github.com/RawanKazma/ai-portfolio/tree/main/Few-Shot%20Learning%20with%20Siamese%20Networks)
 
