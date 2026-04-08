@@ -26,9 +26,9 @@ projects applying computer vision and deep learning to a variety of medical imag
   Focuses on clinically relevant segmentation of tumor sub-regions for improved diagnosis and treatment assessment.  
   🔗 Repo: [brain-tumor-segmentation] 
 
-- **Automated Bone Metastasis Detection**
-  `MRI`
-  Detection of metastatic bone disease using MRI data with validation against radiologist annotations
+- **Automated Bone Metastasis Detection (Decision Support System)**  `MRI`  
+  Development and evaluation of machine learning models for detecting metastatic bone disease using MRI data, with validation against expert radiologist annotations. Focuses on clinical decision support for treatment response assessment and disease monitoring.  
+  🔗 Repo: [bone-metastasis-detection](link)
 
 ---
 
@@ -56,10 +56,6 @@ Projects using cutting-edge AI techniques like few-shot learning, self-supervise
   Siamese network implementation for few-shot classification tasks on general datasets.  
   🔗 Repo: [Few-Shot Learning with Siamese Networks](https://github.com/RawanKazma/ai-portfolio/tree/main/Few-Shot%20Learning%20with%20Siamese%20Networks)
 
-- **Few-Shot Medical Image Classification**  
-  Prototypical networks to classify medical images with limited labeled data  
-  🔗 Repo: [few-shot-medical-images]
-
 - **Self-Supervised ECG Signal Learning**  
   Contrastive learning to generate robust embeddings from ECG data.  
   🔗 Repo: [ssl-ecg-signals]
@@ -69,9 +65,9 @@ Projects using cutting-edge AI techniques like few-shot learning, self-supervise
 ### 4. Embedded & Edge AI
 Projects deploying ML/DL models on resource-constrained devices or edge platforms.
 
-- **Embedded AI for Portable Ultrasound**  
-  CNN models optimized and deployed on embedded devices for real-time inference (will be added by July 2026)  
-  🔗 Repo: [embedded-ultrasound-ai]
+- **Embedded AI for hardware enhancement (Medical Device)**  
+  (will be added by July 2026)  
+  🔗 Repo: [thesis-project]
 
 - **Edge AI for Vital Sign Monitoring**  
   Lightweight models for continuous monitoring and prediction on low-power hardware.  
