@@ -63,11 +63,11 @@ Projects deploying ML/DL models on resource-constrained devices or edge platform
 
 - **Embedded AI for Signal enhancement (Medical Device)**  
   (will be added by July 2026)  
-  🔗 Repo: will be published by July 2026
+  🔗 Repo: Coming July 2026
 
 - **Edge AI for Vital Sign Monitoring**  
   Lightweight models for continuous monitoring and prediction on low-power hardware.  
-  🔗 Repo: Not yet published
+  🔗 Repo: Coming soon
 
 ---
 
