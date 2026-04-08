@@ -15,24 +15,27 @@ Together, these projects showcase both **domain expertise** and **technical AI p
 ### 1. Medical Imaging
 projects applying computer vision and deep learning to a variety of medical imaging modalities including MRI, CT and X-ray
 
- - **Weakly-Supervised Radiomics for Breast Cancer Detection from 3D μ-Calcifications**  
+ - **Weakly-Supervised Radiomics for Breast Cancer Detection from 3D μ-Calcifications** `micro-ct` `x-ray`  
   Classification of breast cancer using radiomic features extracted from 3D micro-calcifications. Includes both instance-level (micro) and patient-level prediction under label uncertainty.  
   🔗 Repo: [breast-cancer-microcalcification](https://github.com/RawanKazma/breast-cancer-weakly-supervised-radiomics.git)
 
-- **Brain Tumor Segmentation (U-Net)**  
-  MRI-based tumor segmentation using CNNs and deep learning techniques.  
-  🔗 Repo: [brain-tumor-segmentation](git link)  
+- **Brain Tumor Segmentation using U-Net**
+  `MRI`  
+  Deep learning-based tumor segmentation using multi-modal MRI scans (T1, T1Gd, T2, FLAIR) from the BraTS dataset.  
+  Trained U-Net models to predict tumor regions with evaluation using Dice score against expert-annotated ground truth.  
+  Focuses on clinically relevant segmentation of tumor sub-regions for improved diagnosis and treatment assessment.  
+  🔗 Repo: [brain-tumor-segmentation] 
 
-- **Chest X-ray Classification**  
-  Multi-class disease detection using CNNs and transfer learning.  
-  🔗 Repo: [chest-xray-classification]
+- **Automated Bone Metastasis Detection**
+  `MRI`
+  Detection of metastatic bone disease using MRI data with validation against radiologist annotations
 
 ---
 
 ### 2. Clinical Risk Prediction & Probabilistic Modeling
 Projects focused on clinical data, risk estimation, and probabilistic approaches.
 
-- **Analyzing Model Robustness on Breast Cancer Classification**  
+- **Analyzing Model Robustness on Breast Cancer Classification** `tabular-data`    
   Evaluation of ML classifiers on the Breast Cancer Wisconsin dataset to assess robustness, generalization, and performance under class overlap and label noise where features are biopsy-derived and labeled as Benign or Malignant  
   🔗 Repo: [breast-cancer-robustness-analysis](https://github.com/RawanKazma/breast-cancer-classifier-robustness)
 
