@@ -36,23 +36,19 @@ projects applying computer vision and deep learning to a variety of medical imag
 Projects focused on clinical data, risk estimation, and probabilistic approaches.
 
 - **Analyzing Model Robustness on Breast Cancer Classification** `tabular-data`    
-  Evaluation of ML classifiers on the Breast Cancer Wisconsin dataset to assess robustness, generalization, and performance under class overlap and label noise where features are biopsy-derived and labeled as Benign or Malignant  
+  Evaluation of ML classifiers on the Breast Cancer Wisconsin dataset to assess robustness, generalization and performance under class overlap and label noise where features are biopsy-derived and labeled as Benign or Malignant  
   🔗 Repo: [breast-cancer-robustness-analysis](https://github.com/RawanKazma/breast-cancer-classifier-robustness)
 
 - **Cardiovascular Risk Prediction**  
-  ML models including logistic regression, XGBoost, and probabilistic calibration.  
+  ML models including logistic regression, XGBoost and probabilistic calibration.  
   🔗 Repo: [cardio-risk-prediction]
-
-- **Sepsis Early Warning System (LSTM)**  
-  Time-series clinical prediction using deep learning and probabilistic modeling.  
-  🔗 Repo: [sepsis-warning-system]
 
 ---
 
 ### 3. Advanced AI & Representation Learning
 Projects using cutting-edge AI techniques like few-shot learning, self-supervised learning and representation learning.
 
-- **Few-Shot Learning with Siamese Networks** *(non-medical)*
+- **Few-Shot Learning with Siamese Networks**
   Siamese network implementation for few-shot classification tasks on general datasets.  
   🔗 Repo: [Few-Shot Learning with Siamese Networks](https://github.com/RawanKazma/ai-portfolio/tree/main/Few-Shot%20Learning%20with%20Siamese%20Networks)
 
@@ -77,7 +73,7 @@ Projects deploying ML/DL models on resource-constrained devices or edge platform
 
 ## Notes
 - Projects include both academic work (Master’s degree projects at VUB and UGent) and personal projects developed to explore advanced AI techniques and demonstrate applied skills in biomedical AI 
-- Each project repository includes **source code, README, slides, and results/visuals**.  
+- Each project repository includes **source code and a README file explaining the project**.  
 - All projects are built using **Python**, **PyTorch**, **TensorFlow**, and related ML/DL libraries.  
 - This portfolio demonstrates a combination of **domain expertise, technical skills and applied AI knowledge**.
 
