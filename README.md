@@ -1,10 +1,10 @@
 # Biomedical Ai Portfolio
 
-A diverse portfolio of **biomedical AI projects** using **machine learning (ML) and deep learning (DL)**.  
+A curated portfolio of **biomedical AI projects** using **machine learning (ML) and deep learning (DL)**.  
 Projects span **medical imaging**, **clinical risk prediction**, **probabilistic modeling**, **representation and few-shot learning**, and **embedded/edge AI applications**. 
 
 This repository serves as an **index of my projects** including:  
-- **Academic projects** completed at VUB and UGent while pursuing a Master’s in Biomedical Engineering with a minor in AI and Digital Health. These projects leveraged real hospital and research-grade datasets to develop applied machine learning and deep learning solutions addressing clinically relevant biomedical challenges
+- **Academic projects** completed at VUB and UGent while pursuing a Master’s in Biomedical Engineering with a minor in AI and Digital Health. These projects leverage real hospital and research-grade datasets to develop applied ML and DL solutions for clinically relevant biomedical challenges
 - **Personal projects** developed to explore advanced AI techniques and demonstrate applied skills in the biomedical domain  
 
 Together, these projects showcase both **domain expertise** and **technical AI proficiency**.
@@ -24,11 +24,11 @@ projects applying computer vision and deep learning to a variety of medical imag
   Deep learning-based tumor segmentation using multi-modal MRI scans (T1, T1Gd, T2, FLAIR) from the BraTS dataset.  
   Trained U-Net models to predict tumor regions with evaluation using Dice score against expert-annotated ground truth.  
   Focuses on clinically relevant segmentation of tumor sub-regions for improved diagnosis and treatment assessment.  
-  🔗 Repo: [brain-tumor-segmentation] 
+  🔗 Repo: Not yet published
 
 - **Automated Bone Metastasis Detection (Decision Support System)**  `MRI`  
   Development and evaluation of machine learning models for detecting metastatic bone disease using MRI data, with validation against expert radiologist annotations. Focuses on clinical decision support for treatment response assessment and disease monitoring.  
-  🔗 Repo: [bone-metastasis-detection]
+  🔗 Repo: Not yet published
 
 ---
 
@@ -41,7 +41,7 @@ Projects focused on clinical data, risk estimation, and probabilistic approaches
 
 - **Cardiovascular Risk Prediction**  
   ML models including logistic regression, XGBoost and probabilistic calibration.  
-  🔗 Repo: [cardio-risk-prediction]
+  🔗 Repo: Not yet published
 
 ---
 
@@ -54,28 +54,28 @@ Projects using cutting-edge AI techniques like few-shot learning, self-supervise
 
 - **Self-Supervised ECG Signal Learning**  
   Contrastive learning to generate robust embeddings from ECG data.  
-  🔗 Repo: [ssl-ecg-signals]
+  🔗 Repo: Not yet published
 
 ---
 
 ### 4. Embedded & Edge AI
 Projects deploying ML/DL models on resource-constrained devices or edge platforms.
 
-- **Embedded AI for hardware enhancement (Medical Device)**  
+- **Embedded AI for Signal enhancement (Medical Device)**  
   (will be added by July 2026)  
-  🔗 Repo: [thesis-project]
+  🔗 Repo: will be published by July 2026
 
 - **Edge AI for Vital Sign Monitoring**  
   Lightweight models for continuous monitoring and prediction on low-power hardware.  
-  🔗 Repo: [edge-ai-vitals]
+  🔗 Repo: Not yet published
 
 ---
 
 ## Notes
 - Projects include both academic work (Master’s degree projects at VUB and UGent) and personal projects developed to explore advanced AI techniques and demonstrate applied skills in biomedical AI 
-- Each project repository includes **source code and a README file explaining the project**.  
-- All projects are built using **Python**, **PyTorch**, **TensorFlow**, and related ML/DL libraries.  
-- This portfolio demonstrates a combination of **domain expertise, technical skills and applied AI knowledge**.
+- Each project repository includes source code and a detailed README describing methodology, experiments, and results 
+- All projects are built using **Python**, **PyTorch**, **TensorFlow** and related ML/DL libraries 
+- This portfolio demonstrates a combination of **domain expertise, technical skills and applied AI knowledge**
 
 ---
 
