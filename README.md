@@ -28,7 +28,7 @@ projects applying computer vision and deep learning to a variety of medical imag
 
 - **Automated Bone Metastasis Detection (Decision Support System)**  `MRI`  
   Development and evaluation of machine learning models for detecting metastatic bone disease using MRI data, with validation against expert radiologist annotations. Focuses on clinical decision support for treatment response assessment and disease monitoring.  
-  🔗 Repo: [bone-metastasis-detection](link)
+  🔗 Repo: [bone-metastasis-detection]
 
 ---
 
